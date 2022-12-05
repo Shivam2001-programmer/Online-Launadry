@@ -1,0 +1,92 @@
+.header {
+    padding-top: 56px;
+    padding-left: 145px;
+    font-size: 250%;
+    font-weight: 600;
+}
+
+.para {
+    padding-top: 12px;
+    padding-left: 145px;
+    font-size: 120%;
+    font-weight: 600;
+
+    color: grey;
+}
+
+.par {
+    padding-left: 145px;
+    font-size: 120%;
+    font-weight: 600;
+
+    color: grey;
+}
+
+.btn {
+
+    background-color: rgb(77, 143, 184);
+
+    margin-left: 135px;
+    color: white;
+    box-shadow: 7px 7px 5px #888888;
+    border-radius: 12px;
+}
+
+.hero {
+    padding-top: 24px;
+    padding-left: 145px;
+    font-size: 170%;
+    font-weight: 600;
+
+    color: grey;
+}
+
+.card {
+
+    margin-top: 10%;
+    margin-left: 10%;
+
+    margin-right: 10%;
+    box-shadow: 7px 7px 5px #888888;
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(13, 97, 175);
+}
+
+
+.bookbtn {
+    background-color: rgb(48, 125, 173);
+
+    color: white;
+    padding: 15px 32px;
+
+
+    margin-left: 65%;
+    font-size: 16px;
+    border-radius: 12px;
+    box-shadow: 7px 7px 5px #888888;
+
+}
+
+bookbtn:hover {
+    background-color: yellow;
+}
+
+
+.price {
+    color: grey;
+    font-size: larger;
+    font-weight: 600;
+    margin-top: 2%;
+}
+
+
+.paragraph {
+    color: grey;
+    font-size: larger;
+    font-weight: 600;
+    margin-top: 2%;
+}

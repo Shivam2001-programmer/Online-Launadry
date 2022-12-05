@@ -1,0 +1,23 @@
+.card {}
+
+.imagess {
+    width: 80%;
+}
+
+.imag {
+    width: 90%;
+}
+
+.accordion-body {
+    border-color: rgb(61, 94, 172);
+    background-color: rgb(218, 213, 246);
+}
+
+
+.faq {
+    margin-top: 3%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 4em;
+    color: rgb(20, 51, 124);
+}
